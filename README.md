@@ -1,7 +1,8 @@
 # CS4413-Web-Technologies
 ## University Texas of San Antonio 
 ======
-h4 **Course Topics**
+
+#### **Course Topics**
 * Protocols
 * Environments
 * Version Control
