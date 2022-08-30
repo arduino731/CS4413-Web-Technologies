@@ -1,7 +1,5 @@
 # CS4413-Web-Technologies
 ## University Texas of San Antonio 
-======
-
 #### **Course Topics**
 * Protocols
 * Environments
