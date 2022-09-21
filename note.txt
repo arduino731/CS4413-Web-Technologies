@@ -1,0 +1,17 @@
+Operation system 
+    What are Virtual Machine (VM) used for?
+    VM is based on Linux.
+	Virtual machine used for separate computer in an app window on a desktop
+	VMs may be deployed to accommodate different levels of processing power needs, 
+	to run software that require a different OS or test applications in a safe. Its called sandboxed enviroment. 
+	
+	It have historically been used for server virtualization, which enables IT teams to make their resources and improve
+    efficiency. It can perform specific tasks risky to carry out in a host enviroment such as virus infected data or testing
+    OS. Because of OS is separated from the rest of the system. 
+
+    VMs can run multiple operating system environments on a single physical computer, saving physical space, time and management costs.
+
+Cloud platforms platforms as a service (PaaS)
+    Heroku
+    AWS 
+ 
